@@ -1,0 +1,47 @@
+[
+  {
+    "id": "SCP-002",
+    "title": "The Living Room",
+    "objectClass": "Euclid",
+    "image": "images/800px-SCP002.jpg",
+    "summary": "SCP-002 is a fleshy, tumorous object with an interior that looks like a small apartment room.",
+    "containment": "SCP-002 must stay connected to a suitable power supply at all times. The containment area must remain under negative air pressure. No personnel below Level 3 are allowed near SCP-002 unless written authorisation is given by two off-site Level 4 administrators.",
+    "description": "SCP-002 resembles a tumorous, fleshy growth with a volume of roughly 60 cubic metres. An iron valve hatch leads to an interior that appears to be a standard low-rent apartment. The furniture inside appears to be made from biological substances produced by the human body. The object has been linked to the disappearance of personnel and appears to convert living humans into furnishings."
+  },
+  {
+    "id": "SCP-003",
+    "title": "Biological Motherboard",
+    "objectClass": "Euclid",
+    "image": "",
+    "summary": "SCP-003 is made of two related components, SCP-003-1 and SCP-003-2. SCP-003-1 resembles a biological computer motherboard.",
+    "containment": "SCP-003 must be kept at a temperature of no less than 35 degrees Celsius and ideally above 100 degrees Celsius. No living multicellular organisms of Category IV or higher complexity may come into contact with SCP-003. SCP-003-2 must remain connected to its designated power source at all times.",
+    "description": "SCP-003 consists of SCP-003-1 and SCP-003-2. SCP-003-1 appears to be made from chitin, hair and nails arranged like a computer motherboard. SCP-003-2 is a stone tablet with runes that emit light patterns. If the temperature drops below 35 degrees Celsius, SCP-003-1 enters a growth state and begins converting surrounding matter."
+  },
+  {
+    "id": "SCP-004",
+    "title": "The Twelve Rusty Keys and the Door",
+    "objectClass": "Euclid",
+    "image": "images/SCP004_door.jpg",
+    "summary": "SCP-004 consists of an old wooden barn door and twelve rusted steel keys.",
+    "containment": "Items SCP-004-2 through SCP-004-13 must not be moved off-site unless accompanied by two Level 4 security personnel. No component of SCP-004 should be taken through SCP-004-1. Level 1 clearance is required for basic access and Level 4 clearance is required to use the keys.",
+    "description": "SCP-004 is an old wooden barn door and a set of twelve rusted steel keys. The door leads to an abandoned factory, but some keys open dangerous spaces where physical and time anomalies occur. Testing showed that most keys lead to fatal outcomes, while some keys open spaces with impossible dimensions."
+  },
+  {
+    "id": "SCP-005",
+    "title": "Skeleton Key",
+    "objectClass": "Safe",
+    "image": "images/SCP-005.jpg",
+    "summary": "SCP-005 is an ornate key that can open almost any lock.",
+    "containment": "SCP-005 poses no immediate direct risk, but access must be restricted. Approval from at least one Level 4 personnel member is required before the object is removed from its containment area.",
+    "description": "SCP-005 looks like a typical mass-produced key from the 1920s. It has the ability to open almost any type of lock, including mechanical and digital locks. Its origin is unknown. Tests suggest that the key may fail when the purpose of a lock is hidden or disguised."
+  },
+  {
+    "id": "SCP-006",
+    "title": "Fountain of Youth",
+    "objectClass": "Safe",
+    "image": "",
+    "summary": "SCP-006 is a small spring whose water has unusual healing properties.",
+    "containment": "SCP-006 does not need extensive physical containment, but secrecy is required. Personnel interacting with it must wear modified Class VI BNC suits. Any liquid collected from SCP-006 must be approved by three O5 level personnel and transported under armed guard.",
+    "description": "SCP-006 is a small spring located 60 kilometres west of Astrakhan. Its liquid appears to be mineral water, but it has unusual health-related effects. In humans, it repairs damaged tissue, strengthens immune response and supports cellular regeneration. Its existence must be hidden from personnel and the public."
+  }
+]
